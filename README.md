@@ -7,3 +7,7 @@ Part 1 was kinda shortcutted by using `eval()` ;-)
 
 ## Day 9
 Travelling salesman problem (TSP); try implementing other solutions.
+
+## Day 10
+Does not look that good, takes a second for 50 iterations...
+Also take a look at https://www.youtube.com/watch?v=ea7lJkEhytA
