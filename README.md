@@ -11,3 +11,7 @@ Travelling salesman problem (TSP); try implementing other solutions.
 ## Day 10
 Does not look that good, takes a second for 50 iterations...
 Also take a look at https://www.youtube.com/watch?v=ea7lJkEhytA
+
+## Day 15
+Brute forcing took about 7 seconds:
+142848 permutations, of which 109207 yield bad results
