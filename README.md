@@ -19,3 +19,6 @@ or I have shortcutted some letters without actually having thought about it.
 ## Day 15
 Brute forcing took about 7 seconds:
 142848 permutations, of which 109207 yield bad results
+
+## Day 16
+Like the simple dataclass approach of part 1
