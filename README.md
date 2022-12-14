@@ -24,3 +24,8 @@ Brute forcing took about 7 seconds:
 Like the simple dataclass approach of part 1
 Part 2 gets a bit more involved, but still manageable
 Should compare this with a version that just uses a list of 500 10 int elements
+
+## Day 17
+This recursion took a while for my mind to grasp.
+I did _not_ find this all on my own, Google for stuff like "Perfect sum problem", "Integer partition", ...
+But I'm adding it for learning purposes, I find it quite ingenious
