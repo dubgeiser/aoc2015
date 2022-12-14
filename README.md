@@ -22,3 +22,5 @@ Brute forcing took about 7 seconds:
 
 ## Day 16
 Like the simple dataclass approach of part 1
+Part 2 gets a bit more involved, but still manageable
+Should compare this with a version that just uses a list of 500 10 int elements
