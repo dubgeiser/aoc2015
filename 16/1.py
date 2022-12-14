@@ -23,7 +23,7 @@ class Sue:
         Assume other Sue's fields are all known."""
         probability = 0
         for f in fields(other):
-            if getattr(other, f.name) == "name": continue
+            if f.name == "name": continue
             if getattr(self, f.name) == getattr(other, f.name): probability += 100
             if getattr(self, f.name) == UNKNOWN: probability += 1
         return probability
